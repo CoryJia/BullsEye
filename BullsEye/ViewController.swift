@@ -9,7 +9,7 @@
 import UIKit
 
 class ViewController: UIViewController {
-//    self.view.backgroundColor=[UIColor colorWithPatternImage:[UIImage imageNamed:@"Background.png.png"]]
+
     var currentValue: Int = 0
     var targetValue: Int = 0
     var roundValue : Int = 0;
